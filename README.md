@@ -1,6 +1,6 @@
 # jwt-auth-example
 
-This is the code part of <a href="https://twitter.com/benawad"> Ben Awad</a>'s <b>JWT Authentication Node.js Tutorial with GraphQL and React</b> guide.
+This is the code part of <a href="https://twitter.com/benawad"> Ben Awad</a>'s <b>JWT Authentication Node.js Tutorial with GraphQL and React</b>.
 
 ## Make sure to setup PostgreSQL for the GraphQL server
 
